@@ -6,7 +6,7 @@ Used Dataset
 - 대여소 정보
 http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
 
--공공자전거 이용정보(월별)
+-공공자전거 이용정보(월별)(2020.01~2021.01)
 http://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do#
 
 과정 상세
