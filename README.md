@@ -9,6 +9,9 @@ http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
 과정 상세
 
 -가설 설정
+
 -데이터 전처리 및 시각화
+
 -모델 설계
+
 -feature engineering
