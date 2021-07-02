@@ -24,3 +24,6 @@ http://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do#
 
 0701
 대여소정보에 대한 데이터를 이용해서 시각화 진행. 어디에 이용자 수가 많은지 대략적으로 파악하기 위함.
+
+0702
+월별 데이터 사용량 뜯어보기. see if the usage in a certain station changes over monthly period.
