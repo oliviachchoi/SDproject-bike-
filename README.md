@@ -9,15 +9,16 @@
 --Used Dataset
 1. http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do#
 서울시 공공자전거 이용정보(시간대별) 20.01~20.12
+
 2.https://data.kma.go.kr/data/rmt/rmtList.do?code=400&pgmNo=570
 기상청 서울 기상예보 데이터(습도, 강수, 기온, 풍속)
-3. http://data.seoul.go.kr/dataList/OA-2218/S/1/datasetView.do
+
 미세먼지 데이터 2020년
-4. http://data.seoul.go.kr/dataList/OA-15526/S/1/datasetView.do (시간대별)
-5. http://data.seoul.go.kr/dataList/OA-15516/S/1/datasetView.do (측정소 정보)
+3.http://data.seoul.go.kr/dataList/OA-15526/S/1/datasetView.do (시간대별)
+4.http://data.seoul.go.kr/dataList/OA-15516/S/1/datasetView.do (측정소 정보)
 따릉이 대여소 정보
 
-
+5.http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
 
 --PLAN--
 
