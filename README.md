@@ -2,8 +2,6 @@
 
 --주제 선정
 
-![KakaoTalk_20210709_124548744](https://user-images.githubusercontent.com/81397004/125020738-5f261b00-e0b4-11eb-801a-fed0ce502eec.jpg)
-![KakaoTalk_20210709_124548744_01](https://user-images.githubusercontent.com/81397004/125020740-60efde80-e0b4-11eb-85c3-15428ebd9d71.jpg)
 시간대별 따릉이 대여 수 예측
 
 --Used Dataset
